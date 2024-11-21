@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Note\\Desktop\\AP\\Lab11.4\\Lab11.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CFAD8D-C8EC-423A-87C2-A1949B31814F}|Lab11.4\\Lab11.4.vcxproj|C:\\Users\\Note\\Desktop\\AP\\Lab11.4\\Lab11.4\\Lab11.4\\Lab11.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5CFAD8D-C8EC-423A-87C2-A1949B31814F}|Lab11.4\\Lab11.4.vcxproj|solutionrelative:Lab11.4\\Lab11.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB6D054-1CC0-47A3-AF62-00245D7773AC}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\Note\\Desktop\\AP\\Lab11.4\\Lab11.4\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AEB6D054-1CC0-47A3-AF62-00245D7773AC}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CFAD8D-C8EC-423A-87C2-A1949B31814F}|Lab11.4\\Lab11.4.vcxproj|C:\\Users\\Note\\Desktop\\AP\\Lab11.4\\Lab11.4\\Lab11.4\\out.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B5CFAD8D-C8EC-423A-87C2-A1949B31814F}|Lab11.4\\Lab11.4.vcxproj|solutionrelative:Lab11.4\\out.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CFAD8D-C8EC-423A-87C2-A1949B31814F}|Lab11.4\\Lab11.4.vcxproj|C:\\Users\\Note\\Desktop\\AP\\Lab11.4\\Lab11.4\\Lab11.4\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B5CFAD8D-C8EC-423A-87C2-A1949B31814F}|Lab11.4\\Lab11.4.vcxproj|solutionrelative:Lab11.4\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\Note\\Desktop\\AP\\Lab11.4\\Lab11.4\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\Note\\Desktop\\AP\\Lab11.4\\Lab11.4\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-17T16:32:24.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab11.4.cpp",
+              "DocumentMoniker": "C:\\Users\\Note\\Desktop\\AP\\Lab11.4\\Lab11.4\\Lab11.4\\Lab11.4.cpp",
+              "RelativeDocumentMoniker": "Lab11.4\\Lab11.4.cpp",
+              "ToolTip": "C:\\Users\\Note\\Desktop\\AP\\Lab11.4\\Lab11.4\\Lab11.4\\Lab11.4.cpp",
+              "RelativeToolTip": "Lab11.4\\Lab11.4.cpp",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwFoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-17T16:24:10.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "out.txt",
+              "DocumentMoniker": "C:\\Users\\Note\\Desktop\\AP\\Lab11.4\\Lab11.4\\Lab11.4\\out.txt",
+              "RelativeDocumentMoniker": "Lab11.4\\out.txt",
+              "ToolTip": "C:\\Users\\Note\\Desktop\\AP\\Lab11.4\\Lab11.4\\Lab11.4\\out.txt",
+              "RelativeToolTip": "Lab11.4\\out.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-17T16:30:55.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "data.txt",
+              "DocumentMoniker": "C:\\Users\\Note\\Desktop\\AP\\Lab11.4\\Lab11.4\\Lab11.4\\data.txt",
+              "RelativeDocumentMoniker": "Lab11.4\\data.txt",
+              "ToolTip": "C:\\Users\\Note\\Desktop\\AP\\Lab11.4\\Lab11.4\\Lab11.4\\data.txt",
+              "RelativeToolTip": "Lab11.4\\data.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-17T16:27:31.407Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
